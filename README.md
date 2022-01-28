@@ -9,11 +9,13 @@
 
 - 🔭 I’m currently working @ [DAZN](https://engineering.dazn.com/)
 
-- 🌱 I’m currently learning **GameDev, Rust, C++, OpenGL, NextJS**
+- 🌱 I’m currently learning **GameDev, Rust, C++, OpenGL, NextJS, Godot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikkio88?tab=repositories](https://github.com/vikkio88?tab=repositories)
 
 - 📝 I regularly write articles on [https://dev.to/vikkio88](https://dev.to/vikkio88)
+
+- 🎮 I write game reviews on [yokupoku.website](https://yokupoku.website) (opensourced the engine in [here](https://github.com/vikkio88/yokupoku))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
