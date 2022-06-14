@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working @ [DAZN](https://engineering.dazn.com/)
 
-- 🌱 I’m currently learning **GameDev, Rust, C++, OpenGL, NextJS, Godot**
+- 🌱 I’m currently learning **GameDev, Rust, C++, OpenGL, NextJS, Godot, C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikkio88?tab=repositories](https://github.com/vikkio88?tab=repositories)
 
