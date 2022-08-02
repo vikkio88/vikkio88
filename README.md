@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vikkio88" target="blank"><img src="https://img.shields.io/twitter/follow/vikkio88?logo=twitter&style=for-the-badge" alt="vikkio88" /></a> </p>
 
-- 🔭 I’m currently working @ [trainline](https://engineering.thetrainline.com/)
+- 🔭 I’m currently working @ [trainline](https://www.trainlinegroup.com/)
 
 - 🌱 I’m currently learning **GameDev, Rust, C++, OpenGL, NextJS, Godot, C#**
 
