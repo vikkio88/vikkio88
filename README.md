@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikkio88?tab=repositories](https://github.com/vikkio88?tab=repositories)
 
-- 📝 I regularly write articles on [https://dev.to/vikkio88](https://dev.to/vikkio88)
+- 📝 I regularly write articles on [dev.to/vikkio88](https://dev.to/vikkio88) and [vikkio.hashnode](https://vikkio.hashnode.dev/)
 
 - 🎮 I write game reviews on [yokupoku.website](https://yokupoku.website) (opensourced the engine in [here](https://github.com/vikkio88/yokupoku))
 
