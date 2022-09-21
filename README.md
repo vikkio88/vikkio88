@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working @ [trainline](https://www.trainlinegroup.com/)
 
-- 🌱 I’m currently learning **GameDev, Rust, C++, OpenGL, NextJS, Godot, C#**
+- 🌱 I’m currently learning **GameDev, Rust, C++, OpenGL, NextJS, Godot, C#, Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikkio88?tab=repositories](https://github.com/vikkio88?tab=repositories)
 
