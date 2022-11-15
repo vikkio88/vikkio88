@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vikkio88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vikkio88" height="30" width="40" /></a>
-<a rel="me" href="https://mastodon.gamedev.place/web/@vikkio" target="blank"><img align="center" src="https://user-images.githubusercontent.com/248805/200536997-5e2510fd-0fa4-4dd9-9951-332f55e3cd52.png" alt="@vikkio@mastodon.gamedev.place" height="30" width="30" /></a>
+<a rel="me" href="https://mastodon.gamedev.place/@vikkio" target="blank"><img align="center" src="https://user-images.githubusercontent.com/248805/200536997-5e2510fd-0fa4-4dd9-9951-332f55e3cd52.png" alt="@vikkio@mastodon.gamedev.place" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/vikkio88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikkio88" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4023451/vikkio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4023451/vikkio" height="30" width="40" /></a>
 <a href="https://fb.com/vikkio88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikkio88" height="30" width="40" /></a>
