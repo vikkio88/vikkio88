@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikkio88" alt="vikkio88" /></a> </p>
 
-- 🔭 I’m currently working @ [trainline](https://www.trainlinegroup.com/)
-
 - 🌱 I’m currently learning **Kotlin, Android, Godot, C#, V**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikkio88?tab=repositories](https://github.com/vikkio88?tab=repositories)
