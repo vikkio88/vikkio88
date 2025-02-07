@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikkio88" alt="vikkio88" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, Android, Godot, C#, V**
+- 🌱 I’m currently learning **Rust, Zig, Godot, Blender**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikkio88?tab=repositories](https://github.com/vikkio88?tab=repositories)
 
